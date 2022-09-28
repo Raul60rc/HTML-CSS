@@ -1,0 +1,31 @@
+.navbar{
+    flex: auto;
+    display: block;
+    padding: 8px;
+    color: black;
+    background-color: rgb(243, 87, 87);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.small-logo{
+border-image-source: url(https://pbs.twimg.com/profile_images/1489224924547985410/ddUQ24Ai_400x400.jpg);
+}
+.background-theme{
+    background-image: url(https://img.freepik.com/vector-gratis/concepto-mercado-valores-toro-oso_1017-9634.jpg?w=826&t=st=1664229445~exp=1664230045~hmac=702cfacb5d5162373f87b2c786e42a497142c9edc10dde042dab67f0d62f6f4b);
+    background-repeat: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -moz-background-size: cover ;
+    background-size: cover;
+    }
+.title{
+    text-align: center;
+}
+.paragraphs{
+    text-align: center;
+}
+.footer{
+    position: fixed;
+    background-color: red;
+    color: white;
+    width: auto;
+}
