@@ -1,0 +1,33 @@
+.header {
+  background-image: url("bmw-background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 600px;
+  width: 1440px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.modelnavbar {
+  display: flex;
+  justify-content: spread-around;
+}
+
+.footer {
+  height: 400px;
+  width: 100%;
+  background-color: grey;
+  padding: 20px;
+}
+
+.footerlist {
+  display: flex;
+  justify-content: space-around;
+}/*# sourceMappingURL=style.css.map */
